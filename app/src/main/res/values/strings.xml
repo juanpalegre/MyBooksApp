@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MisLibros</string>
+    <string name="agregar_libro">Nuevo Libro</string>
+</resources>
